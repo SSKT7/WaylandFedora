@@ -28,7 +28,7 @@ Some keybindings :
 
 
 
-Some might say hyprland performs well with nix os or arch base distros . But i dont see any issue with fedora . I have problem switching to pulseaudio , cause fedora partners with pipewire . So I made my setup on pipewire haha.
+Some might say hyprland performs well with nix os or arch base distros . But i dont see any issue with fedora . I had problem switching to pulseaudio , cause fedora is partnered with pipewire . So I made my setup on pipewire haha.
 
 
 
