@@ -4,8 +4,14 @@ Its my second setup with hyprland . I have seen less ricing on hyprland with fed
         My Noah Family Hyprland setup 
 
 ![20240501_18h04m30s_grim](https://github.com/SSKT7/WaylandFedora/assets/82232181/b69ff812-66b0-4ac9-a8b7-4c640d802b09)
+
+
 ![20240501_18h04m45s_grim](https://github.com/SSKT7/WaylandFedora/assets/82232181/8ead3b39-fcdf-485e-b1bd-94eb445d40c2)
+
+
 ![20240501_18h08m57s_grim](https://github.com/SSKT7/WaylandFedora/assets/82232181/1fa029ea-228a-44df-82f1-ff0bb406a82a)
+
+
 ![20240425_20h51m11s_grim](https://github.com/SSKT7/WaylandFedora/assets/82232181/c95cd730-3204-47e2-8dbb-bbb38bedfa63)
 
 
