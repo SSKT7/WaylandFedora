@@ -11,10 +11,16 @@ Its my second setup with hyprland . I have seen less ricing on hyprland with fed
 
 
 Some keybindings : 
-mod + retuen = kitty 
-mod + d = wofi
-mod + q = kill all 
-mod + print = Screenshot full
+
+
+
+
+        mod + retuen = kitty 
+        mod + d = wofi
+        mod + q = kill all 
+        mod + print = Screenshot full
+
+
 
 Some might say hyprland performs well with nix os or arch base distros . But i dont see any issue with fedora . I have problem switching to pulseaudio , cause fedora partners with pipewire . So I made my setup on pipewire haha.
 
@@ -23,7 +29,27 @@ Some might say hyprland performs well with nix os or arch base distros . But i d
 Issue : 
 You will find a problem with sound volume raising more than 100 and trust me it keeps raising because I didnt make any script with wpctl . I just like the way it is . Everyone knows laptops speaker aint that good . So I like this sound boost with my laptop . 
 
+
+
+
+
+
+
 Note : If you need any help feel free to contact me on facebook
 
+
+
+
+
+
+
+
 Facebook : https://www.facebook.com/Tasin7512/
+
+
+
+
+
+
+
 Instragram: https://www.instagram.com/Tasin_7512/
